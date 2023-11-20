@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MEGAFORCE</title>
+</head>
+<body>
+    <section1>
+        <div>Retro</div>
+        <div>
+            <nav>
+            <div>home</div>
+            <div>about us</div>
+            <div>food</div>
+            <div>menu</div>
+            <div>contact</div>
+            </nav>
+            <div>
+            <h2>Chosing<br>Quality food</h2>
+            <P>lorem ipsum,dolor sit amet consectetur adipisicing elit<br>
+            Numquam sequi sed cupiditate.Sint dolor reiciendis quae.<br>
+        Corporisofficia ipsa?</P>
+            </div>
+        <div>
+            <img src="img/dish5.jfif" alt="">
+        </div>
+        <button>Explore all></button>
+         <button>order</button><button>+</button>
+        </div>
+    </section1>
+        <section2>
+            <div>
+            <div>
+                DISCOVER<br>Our Featured Food
+            </div>
+            <div>
+                See All Food-->
+            </div>       
+            </div>
+            <div>
+                <div>
+                    <img src="img/dish7.jfif" alt=""><br>
+                    Random Fruit<br>Indian Mix
+                    
+                </div>
+                <div>
+                    <img src="img/dish7.jfif" alt=""><br>
+                    Random Fruit<br>Indian Mix
+                    
+                </div>
+                <div>
+                    <img src="img/dish6.jfif" alt=""><br>
+                    Random Fruit<br>Indian Mix
+                </div>
+                <div>
+                    <img src="img/dish5.jfif" alt=""><br>
+                    Random Fruit<br>Indian Mix
+                </div>
+            </div>
+            <div>
+                <div>
+                    <img src="img/dish1.jfif" alt=""><br>
+                    Random Fruit<br>Indian Mix
+                </div>
+                <div>
+                    <img src="img/dish 4.jfif" alt=""><br>
+                    Random Fruit<br>Indian Mix
+                </div>
+                <div>
+                    <img src="img/dish 2.jfif" alt=""><br>
+                    Random Fruit<br>Indian Mix
+                </div>
+                <div>
+                    <img src="img/dish 3.jfif" alt=""><br>
+                    Random Fruit<br>Indian Mix
+                </div>
+            </div>
+
+            </section2>
+         <section3>
+            <div>
+                <div>
+            <h2>Explore more food with<br>our mobile app</h2>
+            <span> it on Goggle Play</span>
+            <span>Download on the Apple store</span>
+                </div>
+                <div><img src="img/" alt="">
+                </div>
+            </div>
+         </section3>
+         
+         <section4>
+            <h2>Food's the most precious things<br> all over the world</h2>
+            <p>lorem ipsum,dolor sit amet consectetur adipisicing elit<br>
+                Numquam sequi sed cupiditate.Sint dolor reiciendis quae.<br>
+            Corporisofficia ipsa <br><button>Explore All</button> 
+                 </p>
+                 <div>
+                    <span>Expedia</span><span> DocoSign</span><span> Concur</span><span> OneLogin</span>
+                    </div>
+                    <row>
+                        <div>
+                            <span>New</span>
+                            <h2>Book a Table</h2>
+                            </div>
+                                <div>
+                                    <label for="=Date">Date</label>
+                                    <input type="date" name="date" id="date">
+                                </div>
+                                <div>
+                                    <label for="=Time">Time</label>
+                                    <input type="time" name="time" id="time">
+                                </div>
+                                <div>
+                                    <label for="=Email">Email</label>
+                                    <input type="Email" name="Email" id="Email">
+                                    <div>
+                                
+                                <div>
+                                    <label for="=Guest Number">Guest number</label>
+                                    <input type="guest number" name="Guest number" id="guest number">
+                                    <div>
+                                   <button type="submit">Book Appointment</button>
+                                    </div>
+                                     </div>
+                                   <div>
+                                    <div>
+                                        <h4>Quick Link</h4>
+                                        <ul>
+                                            <li>Home</li>
+                                            <li>About</li>
+                                            <li>Contact</li>
+                                            <li>Register</li>
+                                            <li>Login</li>
+                                             </ul>
+                                           </div>
+                                           <div>
+                                            <h4>Quick Link</h4>
+                                            <ul>
+                                                <li>Home</li>
+                                                <li>About us</li>
+                                                <li>Register</li>
+                                                <li>Login</li>
+                                                <li>Contact</li>
+                                                </ul>
+                                            </div>
+                                            <div>
+                                                <h4>Quick Link</h4>
+                                                <ul>
+                                                    <li>Home</li>
+                                                    <li>About us</li>
+                                                    <li>Register</li>
+                                                    <li>Login</li>
+                                                    <li>Contact</li>
+                                                     </ul>
+                                                         </div>
+                                                         <div>
+                                                            <h4>Quick Link</h4>
+                                                            <ul>
+                                                                <li>Home</li>
+                                                                <li>About us</li>
+                                                                <li>Register</li>
+                                                                <li>Login</li>
+                                                                <li>Contact</li>
+                                                                    </ul>
+                                                                 </div>
+                                                            </div>
+                                                        </section>
+
+
+            
+            
+
+
+
+         
+
+
+
+
+
+        
+
+
+
+
+        
+</body>
+
+
+
+
+</html>

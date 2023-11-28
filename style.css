@@ -6,13 +6,158 @@ body{
     color: white;
     background-color: black;
     height: 30px;
-    width: 120px;
+    width: 110px;
     text-align: right;
-    padding-right: 10px;
-    padding-top: 15px;
+    padding-right: 9px;
+    padding-top: 10px;
     border-radius: 0px 0px 20px 0px;
     font-weight: bold;
+    
 
 
 }
+.mgs{
+    display: flex;
+    justify-content: space-between;
+}
+.mg{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin-left: 500px;
+
+}
+.link{
+    margin-left: 60px;
+}
+.FOL{
+    height: 40px;
+    width: 60px;
+    background-color: #ff5500;
+    align-items: end;
+    margin-left: 50px;
+    margin-top: 2px
+}
+.line{
+    color: white;
+    width: 30px;
+    height: 2px;
+}
+.lines{
+    color: white;
+    width: 30px;
+    height: 2px;
+    margin-top: -5px;
+}
+.liness{
+    color: white;
+    width: 30px;
+    height: 2px;
+    margin-top: -5px;
+}
+.cho{
+    margin-left: 120px;
+    font-size: 30px;
+    margin-top: 15px;
+    
+}
+
+.all{
+    
+    background-color: #ff5500;
+    border: none;
+    
+    
+
+}
+.ort{
+    margin-left: 50px;
+    
+
+}
+.all{
+    height: 35px;
+    width: 100px;
+    border: none;
+    border-radius: 10px 0px 10px 0px;
+    margin-top: 20px;
+}
+.imgs{
+    margin-left: 250px;
+    margin-top:-8px;
+    margin-right: 28px;
+    
+    
+}
+.black{
+    background-color: black;
+    height: 45px;
+    width: 70px;
+    color: white;
+    margin-left: 629px;
+    border-radius:2px;
+    margin-top:-10px;
+    border: none;
+
+}
+.bro{
+    background-color:whitesmoke;
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius:0px 0px 10px 0px;
+    margin-top:-6px
+    
+}
+.thr{
+    font-size:12px;
+    
+}
+.disc{
+    margin-left: 90px;
+    font-size: 25px;
+    margin-top: 120px;
+}
+.dis{
+    color: #ff5500;
+    margin-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+}
+.see{
+    float: right;
+    margin-right: 80px;
+    margin-top: -40px;
+}
+.shape{
+    margin-left: 100px;
+    margin-top: -20px;
+    width: 40px;
+    height: 35px;
+    background-color: black;
+}
+.they{
+   display: flex;
+   margin-top: 10px;
+   margin-left: 50px;
+}
+.teeh{
+    
+   display: flex;
+   margin-top: 10px;
+   margin-left: 50px;
+}
+.mix{
+    margin-top: -50px;
+    margin-left: 70px;
+    color:black;
+}
+.xim{
+    margin-top: -50px;
+    margin-left: 70px;
+    color: white; 
+}
+
+
 
